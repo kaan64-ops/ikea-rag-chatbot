@@ -1,0 +1,10 @@
+*.env
+.env*
+!.env.example
+*secret*
+*token*
+*backup*
+n8n_data/
+qdrant_storage/
+*.log
+.DS_Store
